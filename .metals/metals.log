@@ -1,0 +1,8 @@
+2020.08.07 10:02:28 INFO  started: Metals version 0.9.2 in workspace '/Users/damee/Downloads/ProjectSubmission' for client vscode.
+2020.08.07 10:02:29 INFO  time: initialize in 1.53s
+2020.08.07 10:02:30 WARN  no build tool detected in workspace '/Users/damee/Downloads/ProjectSubmission'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.07 10:02:30 INFO  no build target: using presentation compiler with only scala-library
+2020.08.07 10:02:34 WARN  no build target for: /Users/damee/Downloads/ProjectSubmission/scalaprojects/Sparkstreamingconsumer/src/main/java/edu/miu/cs523/SparkTweetsConsumer.scala
+2020.08.07 10:02:59 WARN  no build target for: /Users/damee/Downloads/ProjectSubmission/scalaprojects/ScalaStreaming/src/main/java/edu/miu/cs523/StreamTweets.scala
+2020.08.07 10:03:31 WARN  no build target for: /Users/damee/Downloads/ProjectSubmission/scalaprojects/Sparkstreamingconsumer/src/main/java/edu/miu/cs523/SparkTweetsConsumer.scala
+2020.08.07 10:04:01 INFO  shutting down Metals
